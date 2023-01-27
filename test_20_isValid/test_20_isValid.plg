@@ -1,0 +1,27 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: test_20_isValid - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\HHL\AppData\Local\Temp\RSP35FC.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/test_20_isValid.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ  /c 
+"E:\c\test_20_isValid\isValid.c"
+]
+Creating command line "cl.exe @C:\Users\HHL\AppData\Local\Temp\RSP35FC.tmp" 
+<h3>Output Window</h3>
+Compiling...
+isValid.c
+E:\c\test_20_isValid\isValid.c(57) : fatal error C1004: unexpected end of file found
+Ö´ÐÐ cl.exe Ê±³ö´í.
+
+
+
+<h3>Results</h3>
+isValid.obj - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

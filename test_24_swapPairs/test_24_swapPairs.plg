@@ -1,0 +1,25 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: test_24_swapPairs - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\HHL\AppData\Local\Temp\RSPB500.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/test_24_swapPairs.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ  /c 
+"E:\c\test_24_swapPairs\swapPairs.c"
+]
+Creating command line "cl.exe @C:\Users\HHL\AppData\Local\Temp\RSPB500.tmp" 
+<h3>Output Window</h3>
+Compiling...
+swapPairs.c
+
+
+
+<h3>Results</h3>
+swapPairs.obj - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

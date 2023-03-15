@@ -1,0 +1,32 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: test_44_isMatch - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\HHL\AppData\Local\Temp\RSPCA1A.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/test_44_isMatch.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ  /c 
+"E:\c\test_44_isMatch\isMatchc.c"
+]
+Creating command line "cl.exe @C:\Users\HHL\AppData\Local\Temp\RSPCA1A.tmp" 
+<h3>Output Window</h3>
+Compiling...
+isMatchc.c
+E:\c\test_44_isMatch\isMatchc.c(12) : error C2057: expected constant expression
+E:\c\test_44_isMatch\isMatchc.c(12) : error C2466: cannot allocate an array of constant size 0
+E:\c\test_44_isMatch\isMatchc.c(12) : error C2057: expected constant expression
+E:\c\test_44_isMatch\isMatchc.c(12) : error C2466: cannot allocate an array of constant size 0
+E:\c\test_44_isMatch\isMatchc.c(12) : error C2087: '<Unknown>' : missing subscript
+E:\c\test_44_isMatch\isMatchc.c(12) : error C2133: 'dp' : unknown size
+Ö´ÐÐ cl.exe Ê±³ö´í.
+
+
+
+<h3>Results</h3>
+isMatchc.obj - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
